@@ -27,3 +27,11 @@ header {
     height: 100px;
     background-color: var(--dark);
 }
+
+.nav {
+    position: relative;
+    width: 250px;
+    height: 60px;
+    background: white;
+    border-radius: 30px;
+}

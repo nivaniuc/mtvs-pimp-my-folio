@@ -147,9 +147,6 @@ header {
     background-position: center;
 }
 
-.singlebox:nth-child(1) .boximage {
-    background-image: url(IMG_8967.jpg);
-}
 
 .boxheader {
     font-size: 20px;

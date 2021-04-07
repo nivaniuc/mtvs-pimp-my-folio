@@ -28,6 +28,7 @@ header {
     background-color: var(--dark);
 }
 
+
 .nav {
     position: relative;
     width: 250px;
@@ -88,4 +89,21 @@ header {
     opacity: 1;
     visibility: visible;
 
+}
+
+.namebanner {
+    background: rgb(68, 88, 120);
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+    min-height: 40vh;
+    padding: 2% 6%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.namebanner h1 {
+    font-size: 75px;
 }

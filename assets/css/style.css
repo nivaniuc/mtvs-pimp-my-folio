@@ -150,3 +150,16 @@ header {
 .singlebox:nth-child(1) .boximage {
     background-image: url(IMG_8967.jpg);
 }
+
+.boxheader {
+    font-size: 20px;
+    font-weight: 333;
+    line-height: 48px;
+}
+
+.myinfo {
+    text-decoration: none;
+    font-style: normal;
+    display: flex;
+    flex-direction: column
+}

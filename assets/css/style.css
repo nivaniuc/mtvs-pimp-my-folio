@@ -6,7 +6,7 @@
 /* Color Palette for Later Use */
 :root {
 --primary: rgb(201, 60, 60);
---secondary: rgb(230, 190, 62);
+--secondary: rgb(230, 190, 62); /*I never got around to using the other two colors...feels bad man*/
 --tertiary:  rgb(47, 150, 209);
 --light:  rgb(62, 68, 71);
 --dark: rgb(29, 31, 32);
@@ -15,6 +15,8 @@
 body {
     background: var(--light);
 }
+
+/*HEADER STYLING*/
 
 header {
     padding: 40px, 0, 40px, 0;
@@ -28,6 +30,7 @@ header {
     background-color: var(--dark);
 }
 
+/*NAV STYLING*/
 
 .nav {
     position: relative;
@@ -108,7 +111,7 @@ header {
     font-size: 75px;
 }
 
-
+/*BOX SECTION STYLING*/
 
 .box-wrap {
     display: flex;
@@ -153,6 +156,8 @@ header {
     font-weight: 333;
     line-height: 48px;
 }
+
+/*CONTACT INFORMATION STYLING*/
 
 .myinfo {
     text-decoration: none;

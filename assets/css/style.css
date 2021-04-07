@@ -92,7 +92,7 @@ header {
 }
 
 .namebanner {
-    background: rgb(68, 88, 120);
+    background: var(--primary);
     background-image: url();
     background-size: cover;
     background-position: center;
@@ -107,3 +107,9 @@ header {
 .namebanner h1 {
     font-size: 75px;
 }
+
+.wrap {
+    margin: auto;
+    background: var(--light);
+}
+

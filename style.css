@@ -68,6 +68,7 @@ header {
     display: block;
     line-height: 30px;
     text-align: center;
+    color: white;
 }
 
 .navtitle {
@@ -75,9 +76,16 @@ header {
     top: 70px;
     background: white;
     width: auto;
-    padding: 5px, 10px;
-    border-radius: 2px;
+    padding: 5px 10px;
+    border-radius: 3px;
     transition: 0.3s;
     opacity: 0;
+    transform: translate(-5%, 15%);
     visibility: hidden;
+}
+
+.nav ul li:hover a .navtitle{
+    opacity: 1;
+    visibility: visible;
+
 }

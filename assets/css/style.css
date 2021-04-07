@@ -146,3 +146,7 @@ header {
     background-size: cover;
     background-position: center;
 }
+
+.singlebox:nth-child(1) .boximage {
+    background-image: url(IMG_8967.jpg);
+}

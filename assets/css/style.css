@@ -96,6 +96,7 @@ header {
 
 .namebanner {
     background: var(--primary);
+    background-image: url();
     background-size: cover;
     background-position: center;
     min-height: 40vh;
@@ -104,10 +105,6 @@ header {
     justify-content: center;
     align-items: center;
     text-align: center;
-}
-
-.image-container {
-background-image: url(..assets/images/1610179505005.jpg);
 }
 
 .namebanner h1 {

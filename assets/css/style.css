@@ -115,8 +115,7 @@ header {
 
 .projects section {
     display: flex;
-    flex-flow: column;
-    flex-direction:row;
+    flex-direction:column;
     position: center;
     align-items: center;
     justify-content: center;

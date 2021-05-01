@@ -1,2 +1,25 @@
-# mtvs-pimp-my-folio
-Version 2.0 of my Portfolio Assignment
+# NIVANIUC PORTFOLIO
+## Table of Contents
+- [Introduction](#introduction)
+- [Website Link](#website)
+- [License](#license)
+- [Support](#support)
+
+## Introduction
+This is an updated version of my portfolio page! Albeit this is an assignment for the full stack web development bootcamp, it is something I am going to continue to work on even after I graduate the program.
+
+## Website
+[Deployed Site](https://nivaniuc.github.io/mtvs-pimp-my-folio/)
+
+![Portfolio Site](https://github.com/nivaniuc/mtvs-pimp-my-folio/blob/main/2021-04-30-23-06-nivaniuc.github.io.png)
+
+
+## License
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+
+## Support
+Please contact me if you want to collab or roast my code. Thanks.
+
+[GitHub](https://github.com/nivaniuc)
+
+[LinkedIn](https://www.linkedin.com/in/nicholas-ivaniuc-7074321a1/)
